@@ -4,7 +4,7 @@ def prime?(x)
   range = (2..x-1)
   binding.pry
   range.to_a.all? do |prime_number| 
-     x * 
+     x 
      end
   end 
 end
